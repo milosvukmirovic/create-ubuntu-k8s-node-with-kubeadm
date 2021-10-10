@@ -8,7 +8,7 @@
 
 #*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
 
-Check if user is root or has sudo powers:
+#Check if user is root or has sudo powers:
 
 if [[ $(whoami) != 'root' ]] && [[ ! $(groups | grep -o -e sudo) ]]
 then
