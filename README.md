@@ -1,4 +1,4 @@
-# Collection of scripts for preparing and initializing Ubuntu systems as nodes in kubeadm created K8S cluster
+# (WIP) Collection of scripts for preparing and initializing Ubuntu systems as nodes in kubeadm created K8S cluster
 
 ## Tasks that scripts should cover:
 
